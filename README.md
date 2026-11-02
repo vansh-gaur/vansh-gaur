@@ -79,19 +79,6 @@ I'm a Computer Science (Data Science) student who loves building things end-to-e
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-gaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gaur&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh-gaur&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-vansh--gaur-181717?style=for-the-badge&logo=github)](https://github.com/vansh-gaur)
