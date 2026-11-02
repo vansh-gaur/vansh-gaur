@@ -79,6 +79,27 @@ I'm a Computer Science (Data Science) student who loves building things end-to-e
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-gaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gaur&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh-gaur&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- **[Campus Maintenance Tracker](https://github.com/vansh-gaur/campus-maintenance-tracker)** — Full-stack hostel/campus complaint tracker with student/admin roles, JWT auth, status workflow, comments and a stats dashboard. React, Node.js, Express, SQLite.
+- **[Student Performance Analysis](https://github.com/vansh-gaur/student-performance-analysis)** — Data science project predicting student final grades from study habits and academic history, with EDA, model comparison and feature importance. Python, pandas, scikit-learn. Best model (Linear Regression): test R² 0.575, RMSE 7.42.
+- **[Placement Tracker & Predictor](https://github.com/vansh-gaur/placement-tracker-predictor)** — Full-stack + ML app to track job/internship applications and estimate placement chance from CGPA, internships, projects and scores. React, Flask, SQLite, scikit-learn. Test accuracy 0.89, ROC-AUC 0.75 on synthetic data.
+
+---
+
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-vansh--gaur-181717?style=for-the-badge&logo=github)](https://github.com/vansh-gaur)
