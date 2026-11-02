@@ -15,15 +15,15 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science (Data Science) student who loves building things end-to-end — from a clean frontend to a solid backend, and from raw data to a model that actually means something.
 
--  Currently focused on **full-stack web development** and **AI/ML**
--  Learning by building — turning ideas into working projects, not just tutorials
--  Interested in **data, analytics, and machine learning** applied to real problems
--  Ask me about **web development, full-stack projects, and AI/ML**
--  Open to **collaborations, hackathons, and learning-focused projects**
+- 🔭 Currently focused on **full-stack web development** and **AI/ML**
+- 🌱 Learning by building — turning ideas into working projects, not just tutorials
+- 📊 Interested in **data, analytics, and machine learning** applied to real problems
+- 💬 Ask me about **web development, full-stack projects, and AI/ML**
+- 🤝 Open to **collaborations, hackathons, and learning-focused projects**
 
 ---
 
@@ -71,15 +71,28 @@ I'm a Computer Science (Data Science) student who loves building things end-to-e
 
 | Area | Focus |
 | --- | --- |
-|  **Frontend Development** | Responsive, clean and user-friendly interfaces with React / Next.js |
-|  **Backend Development** | REST APIs, authentication, databases and server-side logic with Node.js |
-|  **AI / ML** | Data analysis, model building and ML workflows with Python |
-|  **Data Science** | Cleaning, exploring and drawing insights from data |
-|  **Full-Stack Projects** | Taking an idea from design to deployment, end-to-end |
+| 🌐 **Frontend Development** | Responsive, clean and user-friendly interfaces with React / Next.js |
+| ⚙️ **Backend Development** | REST APIs, authentication, databases and server-side logic with Node.js |
+| 🧠 **AI / ML** | Data analysis, model building and ML workflows with Python |
+| 📊 **Data Science** | Cleaning, exploring and drawing insights from data |
+| 🚀 **Full-Stack Projects** | Taking an idea from design to deployment, end-to-end |
 
 ---
 
-## Featured Projects
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-gaur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gaur&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh-gaur&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 - **[Campus Maintenance Tracker](https://github.com/vansh-gaur/campus-maintenance-tracker)** — Full-stack hostel/campus complaint tracker with student/admin roles, JWT auth, status workflow, comments and a stats dashboard. React, Node.js, Express, SQLite.
 - **[Student Performance Analysis](https://github.com/vansh-gaur/student-performance-analysis)** — Data science project predicting student final grades from study habits and academic history, with EDA, model comparison and feature importance. Python, pandas, scikit-learn. Best model (Linear Regression): test R² 0.575, RMSE 7.42.
@@ -87,13 +100,11 @@ I'm a Computer Science (Data Science) student who loves building things end-to-e
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-vansh--gaur-181717?style=for-the-badge&logo=github)](https://github.com/vansh-gaur)
 [![Instagram](https://img.shields.io/badge/Instagram-@vanshazthetics-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vanshazthetics)
-<!-- Add your LinkedIn here when ready:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-gaur)
--->
 
 ---
 
