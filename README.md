@@ -96,7 +96,7 @@ I'm a Computer Science (Data Science) student who loves building things end-to-e
 
 - **[Campus Maintenance Tracker](https://github.com/vansh-gaur/campus-maintenance-tracker)** — Full-stack hostel/campus complaint tracker with student/admin roles, JWT auth, status workflow, comments and a stats dashboard. React, Node.js, Express, SQLite.
 - **[Student Performance Analysis](https://github.com/vansh-gaur/student-performance-analysis)** — Data science project predicting student final grades from study habits and academic history, with EDA, model comparison and feature importance. Python, pandas, scikit-learn. Best model (Linear Regression): test R² 0.575, RMSE 7.42.
-- **[Placement Tracker & Predictor](https://github.com/vansh-gaur/placement-tracker-predictor)** — Full-stack + ML app to track job/internship applications and estimate placement chance from CGPA, internships, projects and scores. React, Flask, SQLite, scikit-learn. Test accuracy 0.89, ROC-AUC 0.75 on synthetic data.
+- **[Placement Tracker & Predictor](https://github.com/vansh-gaur/placement-tracker-predictor)** — Full-stack + ML app to track job/internship applications and estimate placement chance from CGPA, internships, projects and scores. React, Flask, SQLite, scikit-learn. Test accuracy 0.86, ROC-AUC 0.78 on synthetic data.
 
 ---
 
